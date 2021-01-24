@@ -1,4 +1,4 @@
 a = 123
 b = 345
-c = 456
-print(a + b - c)
+# c = 456
+print(a + b)
