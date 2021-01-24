@@ -1,3 +1,4 @@
 a = 123
 b = 345
-print(a+b)
+c = 456
+print(a + b - c)
