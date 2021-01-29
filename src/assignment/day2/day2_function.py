@@ -67,7 +67,7 @@ def delete_from_dict(dictionary, word=None):
             del dictionary[word]
             return print(f"{word} has been deleted.")
 
-    print(f"{word} is not in this dict. Won't delete.")
+    return print(f"{word} is not in this dict. Won't delete.")
 
 
 # \/\/\/\/\/\/\ DO NOT TOUCH  \/\/\/\/\/\/\
